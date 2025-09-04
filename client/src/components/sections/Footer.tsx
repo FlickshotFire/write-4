@@ -10,10 +10,7 @@ function Footer() {
 
   const topicLinks = [
     { name: "AI & Machine Learning", href: "#" },
-    { name: "Web Development", href: "#" },
-    { name: "Cloud Computing", href: "#" },
-    { name: "Game Development", href: "#" },
-  ];
+   ];
 
   const socialLinks = [
     { icon: Github, href: "#", label: "GitHub" },
@@ -96,7 +93,7 @@ function Footer() {
         
         <div className="pt-8 border-t border-border text-center">
           <p className="text-muted-foreground">
-            © 2025 Aman Bhardwaj. Built with passion for education and innovation.
+            © 2025 Aman Bhardwaj. Built with Efforts & Time, Passion for Education , Innovation in Mind , Bounties as Soul & Heart as Contribution to Community.
           </p>
         </div>
       </div>
