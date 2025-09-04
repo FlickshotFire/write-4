@@ -26,29 +26,18 @@ function ThoughtsSection() {
       content: "The future of AI isn't just about replacing human tasks—it's about augmenting human creativity. Every breakthrough in machine learning should enhance our ability to solve complex problems, not eliminate the human element.",
       authorName: "Aman Bhardwaj",
       authorImage: "https://i.ibb.co/rGqGDYNF/Whats-App-Image-2025-08-24-at-9-13-07-AM.jpg",
-      likes: 42,
-      comments: 8,
-      timeAgo: "2 hours ago",
-    },
+     },
     {
       id: 2,
       content: "Just finished implementing a Three.js particle system that responds to user interaction. The intersection of WebGL and creative coding never fails to amaze me. #WebGL #ThreeJS #CreativeCoding",
       authorName: "Aman Bhardwaj",
       authorImage: "https://i.ibb.co/rGqGDYNF/Whats-App-Image-2025-08-24-at-9-13-07-AM.jpg",
-      likes: 67,
-      comments: 12,
-      timeAgo: "1 day ago",
-      codeSnippet: "const particles = new THREE.BufferGeometry();\n// Magic happens here ✨",
     },
     {
       id: 3,
       content: "Education technology is evolving rapidly, but we often forget the most important aspect: making learning enjoyable. My latest project focuses on gamifying complex technical concepts. Learning should feel like an adventure, not a chore.",
       authorName: "Aman Bhardwaj",
       authorImage: "https://i.ibb.co/rGqGDYNF/Whats-App-Image-2025-08-24-at-9-13-07-AM.jpg",
-      likes: 91,
-      comments: 18,
-      timeAgo: "3 days ago",
-    },
   ];
 
   return (
