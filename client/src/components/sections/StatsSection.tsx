@@ -1,9 +1,9 @@
 function StatsSection() {
   const stats = [
-    { number: "25+", label: "Articles Published" },
-    { number: "12+", label: "Video Tutorials" },
-    { number: "5k+", label: "Monthly Readers" },
-    { number: "8+", label: "Tech Topics" },
+    { number: "0", label: "Articles Published" },
+    { number: "0", label: "Video Tutorials" },
+    { number: "0", label: "Monthly Readers" },
+    { number: "0", label: "Tech Topics" },
   ];
 
   return (
