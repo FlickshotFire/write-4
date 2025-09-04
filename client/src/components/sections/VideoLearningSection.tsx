@@ -11,8 +11,7 @@ function VideoLearningSection() {
     totalDuration: "6h 45m",
     totalVideos: 8,
     tags: ["Three.js", "WebGL", "Advanced"],
-    views: "2.1k",
-  };
+   };
 
   const courses = [
     {
@@ -24,41 +23,11 @@ function VideoLearningSection() {
       totalDuration: "8h 45m",
       totalVideos: 12,
       category: "AI Series",
-      views: "1.2k",
-    },
-    {
-      id: "react-performance",
-      title: "React Performance Mastery",
-      description: "Advanced techniques for building fast React applications. Complete guide to optimization strategies.",
-      thumbnailUrl: "https://images.unsplash.com/photo-1555099962-4199c345e5dd?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=338",
-      duration: "35:42",
-      totalDuration: "5h 30m",
-      totalVideos: 9,
-      category: "Web Dev",
-      views: "856",
-    },
-    {
-      id: "devops-masterclass",
-      title: "DevOps with Docker & Kubernetes",
-      description: "Complete guide to containerization and orchestration. From basics to production deployment.",
-      thumbnailUrl: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=338",
-      duration: "52:18",
-      totalDuration: "12h 15m",
+      },
+   
       totalVideos: 15,
       category: "DevOps",
-      views: "2.3k",
-    },
-    {
-      id: "phaser-game-dev",
-      title: "Game Development with Phaser.js",
-      description: "Step-by-step game development from concept to deployment. Build complete games from scratch.",
-      thumbnailUrl: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=338",
-      duration: "41:05",
-      totalDuration: "7h 20m",
-      totalVideos: 10,
-      category: "Game Dev",
-      views: "1.8k",
-    },
+    }
   ];
 
   return (
