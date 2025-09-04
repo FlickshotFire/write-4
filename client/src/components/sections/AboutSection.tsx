@@ -2,15 +2,14 @@ import { ExternalLink, Mail } from 'lucide-react';
 
 function AboutSection() {
   const achievements = [
-    "5+ years of hands-on development experience",
+    "2+ years of hands-on development experience",
     "Specialized in AI, ML, and cutting-edge web technologies",
-    "Passionate educator and content creator",
+    "A curious engineer and a continuous learner",
   ];
   
   const details = [
-    { label: "Latest Project", value: "Project Nirvana", color: "text-primary" },
-    { label: "Focus Areas", value: "AI, Education, Web3", color: "text-accent" },
-    { label: "Teaching Style", value: "Practical & Interactive", color: "text-primary" },
+       { label: "Focus Areas", value: "Everything I Learn", color: "text-accent" },
+    { label: "Teaching Style", value: "Practical, Interactive And Bounties", color: "text-primary" },
   ];
 
   return (
@@ -30,9 +29,12 @@ function AboutSection() {
               and empowering others through technology education.
             </p>
             <p className="text-muted-foreground mb-8 leading-relaxed">
-              This platform is my way of giving back to the community that helped me grow. Here, you'll find 
-              in-depth articles, practical tutorials, and real insights from my journey in tech. 
-              Every piece of content is crafted to bridge the gap between complex concepts and practical application.
+             I'm thrilled to welcome you to the Charvaka School. 
+             As a computer science student, I've experienced firsthand the lack of engaging and high-quality learning resources for coding in traditional educational settings. 
+             Having benefited greatly from freely accessible content, such as books, documentation and websites. 
+             I wanted to give back to the global developer community that has helped me grow. 
+             The Charvaka School is my attempt to bridge this gap and provide a platform where individuals can explore innovative ideas and learn cutting-edge concepts. 
+             I'm excited to share this journey with you, and I hope you enjoy the experience!
             </p>
             
             <div className="space-y-4 mb-8">
@@ -68,7 +70,7 @@ function AboutSection() {
           <div className="order-1 lg:order-2 relative">
             <div className="glass-card p-8 rounded-2xl">
               <img 
-                src="" 
+                src="https://i.ibb.co/21gkZyFD/Whats-App-Image-2025-09-02-at-13-23-23-cc4f993c.jpg" 
                 alt="Professional developer portrait"
                 className="w-full h-80 object-cover rounded-xl mb-6"
               />
